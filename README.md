@@ -1,1 +1,1 @@
-# WUHOnpm install discord.js
+npm install discord.js
