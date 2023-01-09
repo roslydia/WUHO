@@ -12,4 +12,3 @@ client.on('message', message => {
 });
 
 client.login(1061842098401333279);
-npm install discord.js
